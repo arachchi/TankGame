@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Bot/Main/States.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Networking/Receiver.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Map/Brick.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Bot/BotInterface.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/States/CannotConnect.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/GUI/ElementPainter.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Map/Bullet.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/States/Welcome.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Networking/Sender.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Bot/Main/BarricadeMap.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Controlling/StringGenerator.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Game.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/States/Play.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Networking/ServerConfigParser.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/States/GameOver.java</file>
+            <file>file:/C:/Users/Nuran%20Arachchi/Documents/NetBeansProjects/GameVersion2/src/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
